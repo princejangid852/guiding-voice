@@ -948,7 +948,7 @@ a {
 
     .menu ul li:last-child a {
         display: none;
-        
+
     }
 
 
@@ -963,24 +963,27 @@ a {
 
     .slider-text h1 {
         font-size: 30px;
-    width: 100%;
+        width: 100%;
     }
-    .slider-text ul li a{
+
+    .slider-text ul li a {
         margin: 10px;
     }
+
     .slider-text p {
         width: 90%;
         padding: 20px 0;
     }
-    .slider-text ul li a{
+
+    .slider-text ul li a {
         display: inline-block;
         padding: 10px 20px;
     }
 
     .slider-text {
         padding: 60px 0;
-width: 100%;
-top: 36%;
+        width: 100%;
+        top: 36%;
     }
 
     .slider-text ul {
@@ -990,6 +993,10 @@ top: 36%;
     /* * top-heading sec end  */
 
     /* * card sec start  */
+    .card-werppar {
+        margin-top: -346px;
+    }
+
     .card-werppar ul {
         flex-direction: column;
     }
