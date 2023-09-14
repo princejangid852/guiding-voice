@@ -948,6 +948,7 @@ a {
 
     .menu ul li:last-child a {
         display: none;
+        
     }
 
 
@@ -955,21 +956,31 @@ a {
         display: block;
     }
 
-    .slider-text h1 {
-        font-size: 45px;
-        font-weight: 500;
+    .slider-image img {
         width: 100%;
+        height: 550px;
     }
 
+    .slider-text h1 {
+        font-size: 30px;
+    width: 100%;
+    }
+    .slider-text ul li a{
+        margin: 10px;
+    }
     .slider-text p {
-        width: 100%;
+        width: 90%;
         padding: 20px 0;
     }
-
+    .slider-text ul li a{
+        display: inline-block;
+        padding: 10px 20px;
+    }
 
     .slider-text {
         padding: 60px 0;
-
+width: 100%;
+top: 36%;
     }
 
     .slider-text ul {
